@@ -36,7 +36,7 @@
 34,35, William Phillips ,william.phillips9087@aol.com,9593843709,"8169 Oak St, Centerville, TX 09135",2020-12-24,George,Female,28
 35,36, Jack Reed ,jack.reed1685@gmail.com,4528189265,,2019-12-10,Alice,Female,42
 36,37,Connor Foster,,3674661309,,2021-04-16,Carlos,Male,30
-37,38, George Ramos ,george.ramos6477@aol.com,4188452928,"6536 Washington Blvd, Apt 63, Georgetown, TX 76787",2019-02-22,Elena,Female,18
+37,38, George Ramos ,george.ramos6477@aol.com,4188452928,"6536 Washington Blvd, Apt 63, Georgetown, TX 76787",2019-02-22,Elena,Female,16
 38,39,Ximena Parker,,5953324108,"2373 Oak St, Springfield, TX 36273",2020-09-19,George,Female,39
 39,40,Ethan Ward,ethan.ward3906@gmail.com,2249295232,"6188 Washington Blvd, Franklin, TX 40625",,Frank,Female,25
 40,41, Ophelia Harris ,ophelia.harris1079@gmail.com,6342215546," 4499 Lakeview Dr, Apt 88, Madison, CA 97311 ",2022-05-25,Bob,Female,46
@@ -114,7 +114,7 @@
 112,113, Zach Nguyen ,zach.nguyen1419@hotmail.com,8933011309,"7932 Sunset Blvd, Georgetown, FL 22516",2023-12-28,George,Female,48
 113,114, Tina Reed ,tina.reed7360@gmail.com,6608896216,"3210 Sunset Blvd, Apt 60, Franklin, FL 99169",2020-07-24,George,Female,56
 114,115,Edward Ramirez,edward.ramirez3855@outlook.com,3395124855,"9713 Elm St, Arlington, NY 39060",2023-01-10,Carlos,Male,22
-115,116,Jack Brown,jack.brown0531@mail.com,2054827687,"6605 Main St, Franklin, IL 72383",2021-09-14,Diana,Female,18
+115,116,Jack Brown,jack.brown0531@mail.com,2054827687,"6605 Main St, Franklin, IL 72383",2021-09-14,Diana,Female,90
 116,117,Noah Alvarez,noah.alvarez9404@gmail.com,6086835420,"6454 Lakeview Dr, Centerville, TX 07208",2021-01-07,Bob,Male,58
 117,118,Riley Lewis,riley.lewis5567@outlook.com,2905891854,"242 Lakeview Dr, Riverside, IL 84072",2019-10-17,George,Female,35
 118,119,Logan Kelly,logan.kelly4209@protonmail.com,6613171061,"5967 Hillcrest Ave, Georgetown, TX 64437",2022-04-28,Carlos,Male,24
@@ -130,7 +130,7 @@
 128,129, Isaac Scott ,isaac.scott5160@yahoo.com,9918803585,"8841 Elm St, Apt 93, Greenville, TX 90360",2021-08-20,Bob,Male,47
 129,130,Travis Cruz,travis.cruz5527@mail.com,4512735648,"3142 Hillcrest Ave, Apt 11, Clinton, NY 77131",2021-11-04,Bob,Female,63
 130,131, William Mendoza ,william.mendoza6287@gmail.com,6596209145,"9494 Main St, Clinton, NY 68604",2022-09-16,Hannah,Female,34
-131,132, Queen Miller ,queen.miller9947@yahoo.com,4872633895,"3752 Sunset Blvd, Apt 82, Riverside, TX 01664",2020-01-24,Hannah,Male,18
+131,132, Queen Miller ,queen.miller9947@yahoo.com,4872633895,"3752 Sunset Blvd, Apt 82, Riverside, TX 01664",2020-01-24,Hannah,Male,15
 132,133,Zach Sanders,zach.sanders5330@gmail.com,5012089275,,2019-03-24,Frank,Male,60
 133,134,,,2264344260,"9343 Elm St, Apt 79, Fairview, FL 74939",2021-03-04,Frank,Male,53
 134,135,,kara.cox4668@hotmail.com,7202534418,"7032 Maple Dr, Clinton, NY 40153",,Carlos,Male,25
@@ -267,7 +267,7 @@
 265,266,Zach Lewis,zach.lewis2086@yahoo.com,,"1990 Oak St, Springfield, CA 61008",2019-11-04,Alice,Female,56
 266,267,Faith Gomez,faith.gomez1945@yahoo.com,6039492550,"608 Lakeview Dr, Centerville, IL 91731",2022-08-06,Bob,Female,46
 267,268, Sara Edwards ,sara.edwards6267@outlook.com,9423261048,,2023-10-18,Bob,Female,56
-268,269,Frank Nelson,frank.nelson3298@protonmail.com,," 528 Maple Dr, Fairview, IL 78175 ",,Hannah,Female,18
+268,269,Frank Nelson,frank.nelson3298@protonmail.com,," 528 Maple Dr, Fairview, IL 78175 ",,Hannah,Female,90
 269,270,Frank Anderson,frank.anderson0838@protonmail.com,,"4449 Sunset Blvd, Franklin, FL 17118",,Alice,Female,50
 270,271,Leo Morris,leo.morris5569@mail.com,9446481122,"3916 Sunset Blvd, Apt 73, Madison, IL 63227",,Diana,Female,39
 271,272, Steven Hernandez ,,5948124110,"4381 Oak St, Greenville, CA 12936",2019-12-24,Elena,Female,39
@@ -284,7 +284,7 @@
 282,283, Steven Hughes ,steven.hughes6134@protonmail.com,5689131682,"7075 Pine Ave, Arlington, TX 06977",,Frank,Male,41
 283,284,Xena Roberts,xena.roberts1799@gmail.com,5196637300,"7637 Lakeview Dr, Apt 13, Georgetown, NY 54872",,Carlos,Male,29
 284,285,Quentin Bailey,quentin.bailey2557@yahoo.com,9072919266,,2019-06-20,Elena,Female,28
-285,286,Quentin Bennett,,,,2023-04-06,Elena,Female,18
+285,286,Quentin Bennett,,,,2023-04-06,Elena,Female,15
 286,287, Edward Walker ,edward.walker0959@hotmail.com,8539664017,"8058 Main St, Greenville, CA 44108",2021-11-06,George,Female,38
 287,288, Gavin Bennett ,,7988468157,"5579 Maple Dr, Apt 9, Madison, CA 14773",2022-07-04,Diana,Female,54
 288,289,Isaac Johnson,,6725273486,"1600 Hillcrest Ave, Apt 17, Greenville, FL 14348",2022-12-02,Elena,Female,33
@@ -353,7 +353,7 @@
 351,352,Ulysses Edwards,ulysses.edwards3554@hotmail.com,8794309042,"6078 Maple Dr, Franklin, CA 36236",2023-05-10,Alice,Female,45
 352,353,Ximena Lee,ximena.lee9841@mail.com,9252868413,,2021-03-21,Elena,Female,34
 353,354, Steven Martinez ,,3837246345,"112 Pine Ave, Apt 93, Greenville, TX 80859",2022-10-28,George,Female,28
-354,355,Zoey Morgan,zoey.morgan9930@hotmail.com,," 1821 Pine Ave, Georgetown, NY 35307 ",,Carlos,Male,18
+354,355,Zoey Morgan,zoey.morgan9930@hotmail.com,," 1821 Pine Ave, Georgetown, NY 35307 ",,Carlos,Male,90
 355,356, Penelope Morris ,penelope.morris1436@gmail.com,7458158219,"7045 Oak St, Madison, CA 43140",2022-11-25,Diana,Female,41
 356,357,Fiona Torres,fiona.torres1065@gmail.com,3935917468,"1355 Cedar Ln, Apt 62, Springfield, CA 78737",2020-05-06,Elena,Female,22
 357,358,Wendy Reed,wendy.reed2195@hotmail.com,2923385662,"809 Sunset Blvd, Fairview, FL 48535",2020-09-08,Hannah,Female,29
@@ -450,7 +450,7 @@
 448,449,Kelly Stewart,kelly.stewart4884@hotmail.com,8523324419,"4096 Sunset Blvd, Apt 28, Georgetown, CA 91665",2023-11-05,Elena,Female,45
 449,450,Natalie Bailey,natalie.bailey8159@aol.com,3116434205,"1250 Elm St, Apt 54, Springfield, TX 72055",2022-10-10,Elena,Female,37
 450,451, Noah James ,noah.james3642@outlook.com,7582261647,,2022-07-27,Alice,Female,23
-451,452,,quentin.ramirez7039@protonmail.com,2795841951,"952 Oak St, Greenville, NY 78494",2021-05-24,Hannah,Male,18
+451,452,,quentin.ramirez7039@protonmail.com,2795841951,"952 Oak St, Greenville, NY 78494",2021-05-24,Hannah,Male,90
 452,453, Noah Garcia ,noah.garcia1031@mail.com,6068405327,"119 Elm St, Clinton, FL 43761",2021-12-16,Alice,Female,53
 453,454, Tina Young ,tina.young8170@aol.com,5326948613," 3804 Maple Dr, Madison, IL 58821 ",,Hannah,Male,48
 454,455, Amber Collins ,amber.collins7137@aol.com,8542821544,,2020-08-28,Alice,Female,41
@@ -468,14 +468,14 @@
 466,467, Uma Edwards ,uma.edwards3228@protonmail.com,,"3317 Elm St, Fairview, TX 35970",2023-01-07,Diana,Female,61
 467,468, Ximena Ortiz ,ximena.ortiz2862@yahoo.com,," 3898 Washington Blvd, Apt 1, Clinton, NY 04581 ",2021-08-22,Alice,Female,31
 468,469, Robert Wood ,robert.wood7352@hotmail.com,8958565475,"323 Washington Blvd, Apt 33, Centerville, FL 56442",2020-08-07,Bob,Male,64
-469,470, Penelope Green ,penelope.green5896@hotmail.com,9939909692,"8659 Cedar Ln, Franklin, CA 59227",2022-06-14,Carlos,Male,18
+469,470, Penelope Green ,penelope.green5896@hotmail.com,9939909692,"8659 Cedar Ln, Franklin, CA 59227",2022-06-14,Carlos,Male,90
 470,471, Natalie Martin ,natalie.martin1590@outlook.com,3527659658,"6928 Elm St, Springfield, IL 52216",2021-08-27,Hannah,Male,34
-471,472,Lauren Bennett,lauren.bennett1242@gmail.com,4418028746,"524 Washington Blvd, Apt 27, Greenville, CA 06178",2022-11-27,Bob,Female,18
+471,472,Lauren Bennett,lauren.bennett1242@gmail.com,4418028746,"524 Washington Blvd, Apt 27, Greenville, CA 06178",2022-11-27,Bob,Female,16
 472,473,,stella.wilson2179@protonmail.com,5215963449,"8748 Elm St, Apt 3, Madison, TX 59050",2021-07-11,Frank,Female,52
 473,474,Victor Roberts,victor.roberts3676@hotmail.com,6969931872," 5137 Pine Ave, Arlington, TX 48776 ",2023-01-15,Carlos,Male,23
 474,475, Quincy Miller ,quincy.miller8095@gmail.com,3847065231,"4582 Sunset Blvd, Arlington, CA 11080",2020-06-19,Hannah,Female,56
 475,476,Xena Jones,xena.jones2724@outlook.com,9539669703,"9604 Sunset Blvd, Franklin, NY 21334",2020-08-24,Alice,Female,44
-476,477,Holly Foster,holly.foster6666@outlook.com,8232087430,"5460 Elm St, Apt 29, Georgetown, CA 90591",2023-11-01,Elena,Female,18
+476,477,Holly Foster,holly.foster6666@outlook.com,8232087430,"5460 Elm St, Apt 29, Georgetown, CA 90591",2023-11-01,Elena,Female,15
 477,478,Zach Cook,zach.cook9351@hotmail.com,6589379029,"6971 Lakeview Dr, Springfield, FL 94906",2020-01-22,Hannah,Female,47
 478,479,Nathan Lee,nathan.lee2646@protonmail.com,9129429723,"718 Cedar Ln, Arlington, CA 69750",2021-04-30,Bob,Male,29
 479,480, Peter Gonzalez ,peter.gonzalez1314@mail.com,9146249782,"2939 Elm St, Georgetown, CA 52771",2023-10-10,Bob,Male,50
@@ -490,7 +490,7 @@
 488,489,Delilah Carter,delilah.carter1814@gmail.com,9044086969," 5384 Washington Blvd, Arlington, CA 56568 ",2019-03-08,Alice,Female,50
 489,490,Robert Patel,robert.patel1721@gmail.com,," 426 Cedar Ln, Apt 53, Springfield, IL 17228 ",2022-03-12,Hannah,Male,57
 490,491,Ethan Walker,ethan.walker7818@outlook.com,7322041276,"1455 Elm St, Arlington, CA 30783",2022-08-26,Elena,Female,46
-491,492,Zoe James,zoe.james5985@hotmail.com,8869451765," 6332 Sunset Blvd, Riverside, CA 57098 ",2019-12-28,Frank,Male,18
+491,492,Zoe James,zoe.james5985@hotmail.com,8869451765," 6332 Sunset Blvd, Riverside, CA 57098 ",2019-12-28,Frank,Male,16
 492,493, Sara Patel ,sara.patel6116@mail.com,,"1793 Main St, Springfield, CA 08230",2019-06-06,Alice,Female,57
 493,494, Beth Morris ,beth.morris1186@gmail.com,4954816873,"2147 Main St, Centerville, TX 18905",2022-05-30,George,Female,31
 494,495,Robert Torres,robert.torres3554@aol.com,9406047739," 2355 Sunset Blvd, Greenville, FL 07054 ",2023-07-26,Frank,Male,58
@@ -515,7 +515,7 @@
 513,514,Alice Allen,alice.allen8303@hotmail.com,9885995878," 2182 Cedar Ln, Greenville, TX 13335 ",2020-04-26,Hannah,Male,51
 514,515,Nathan Baker,,4235031528,"1647 Washington Blvd, Arlington, NY 01588",2021-02-10,Alice,Female,38
 515,516,Hank Kim,hank.kim3872@outlook.com,4677082559,"9613 Pine Ave, Georgetown, FL 56568",2022-04-18,Bob,Female,41
-516,517,Hank Johnson,hank.johnson8447@protonmail.com,,,2021-11-23,Carlos,Male,18
+516,517,Hank Johnson,hank.johnson8447@protonmail.com,,,2021-11-23,Carlos,Male,15
 517,518,Robert Green,robert.green0728@mail.com,8106726961,"5460 Lakeview Dr, Madison, FL 26712",,George,Female,43
 518,519, Lauren Nguyen ,lauren.nguyen5507@outlook.com,5027121605," 4202 Sunset Blvd, Apt 94, Franklin, IL 34663 ",2019-07-10,Diana,Female,34
 519,520, Xander Cruz ,xander.cruz6098@protonmail.com,,"5561 Lakeview Dr, Apt 3, Franklin, TX 25137",2020-12-05,Hannah,Male,40
@@ -531,7 +531,7 @@
 529,530, Felix Taylor ,felix.taylor5568@mail.com,5176607202,"7206 Elm St, Madison, NY 75655",2020-04-03,George,Female,52
 530,531,Walter James,walter.james0470@gmail.com,5018449078,"791 Washington Blvd, Apt 40, Madison, FL 93752",2022-01-29,Elena,Female,40
 531,532,Amber Brown,amber.brown5014@protonmail.com,4207677467,"4719 Oak St, Arlington, NY 53905",2023-11-28,George,Female,37
-532,533,Quincy Cook,quincy.cook6130@outlook.com,7836496621,"4422 Maple Dr, Apt 26, Centerville, NY 74139",2019-07-08,Alice,Female,18
+532,533,Quincy Cook,quincy.cook6130@outlook.com,7836496621,"4422 Maple Dr, Apt 26, Centerville, NY 74139",2019-07-08,Alice,Female,90
 533,534,,marcus.alvarez3022@gmail.com,9418111353,"9055 Cedar Ln, Franklin, FL 86498",2023-05-24,Bob,Male,56
 534,535, Liam White ,liam.white3375@aol.com,5217201427,,2023-01-28,Bob,Male,33
 535,536,Steven Lee,steven.lee5997@gmail.com,8577177943," 9162 Pine Ave, Springfield, TX 55319 ",2023-09-10,George,Female,46
@@ -595,7 +595,7 @@
 593,594,Catherine Adams,catherine.adams6308@gmail.com,3089583990," 8196 Main St, Apt 77, Georgetown, FL 27812 ",2021-09-14,Bob,Female,60
 594,595,Noah Collins,,5745861080,"6007 Hillcrest Ave, Springfield, TX 22118",2020-11-10,Frank,Female,22
 595,596, Quinn Castillo ,quinn.castillo5334@hotmail.com,5395651076," 6766 Maple Dr, Clinton, IL 57790 ",,Frank,Female,24
-596,597,Catherine Kelly,catherine.kelly6637@outlook.com,7153541280,"5814 Lakeview Dr, Apt 78, Greenville, FL 71849",2022-07-11,George,Female,18
+596,597,Catherine Kelly,catherine.kelly6637@outlook.com,7153541280,"5814 Lakeview Dr, Apt 78, Greenville, FL 71849",2022-07-11,George,Female,90
 597,598,Edward Sanchez,edward.sanchez8628@gmail.com,2934119743,"732 Cedar Ln, Arlington, CA 43299",2022-07-26,George,Female,49
 598,599, Ethan Garcia ,,6477135748,"7169 Hillcrest Ave, Springfield, FL 47804",2023-10-19,Alice,Female,46
 599,600,Tina Patel,tina.patel7450@mail.com,,,2019-07-19,Alice,Female,54
@@ -621,7 +621,7 @@
 619,620,Tina Lee,tina.lee4132@yahoo.com,9653913936,"9147 Elm St, Apt 29, Madison, NY 95170",2021-07-01,Frank,Female,37
 620,621,Grace Ward,grace.ward0472@yahoo.com,3726854466,"1155 Maple Dr, Madison, IL 07228",2020-01-04,George,Female,44
 621,622,Zoey Nelson,,,"7001 Washington Blvd, Apt 92, Springfield, TX 23167",2023-05-23,Bob,Male,32
-622,623,Rebecca Edwards,rebecca.edwards8287@aol.com,8045167409,"3805 Lakeview Dr, Centerville, NY 92649",2020-04-08,Frank,Female,18
+622,623,Rebecca Edwards,rebecca.edwards8287@aol.com,8045167409,"3805 Lakeview Dr, Centerville, NY 92649",2020-04-08,Frank,Female,90
 623,624, Fiona Sanchez ,fiona.sanchez4735@aol.com,2898366793,"8317 Pine Ave, Franklin, NY 10254",2021-01-25,Bob,Male,31
 624,625, Dave Campbell ,dave.campbell3996@hotmail.com,3254823674," 4317 Pine Ave, Georgetown, TX 16012 ",2019-07-23,Hannah,Male,53
 625,626,Isaac Lewis,isaac.lewis0324@mail.com,,"3516 Maple Dr, Franklin, IL 39781",2020-01-17,Alice,Female,37
@@ -680,7 +680,7 @@
 678,679,Quincy Anderson,quincy.anderson5196@outlook.com,9542203667,"4128 Oak St, Springfield, IL 42832",2022-02-07,Bob,Male,38
 679,680,Jasmine Diaz,jasmine.diaz5244@mail.com,9707928315," 8453 Lakeview Dr, Centerville, TX 67271 ",2023-02-07,George,Female,26
 680,681,Isaac Bailey,isaac.bailey3428@gmail.com,5187644038,"5736 Sunset Blvd, Georgetown, FL 86913",2019-03-29,Diana,Female,52
-681,682,Logan Miller,,4503762484,"1693 Maple Dr, Apt 42, Georgetown, NY 59367",2019-05-24,Alice,Female,18
+681,682,Logan Miller,,4503762484,"1693 Maple Dr, Apt 42, Georgetown, NY 59367",2019-05-24,Alice,Female,90
 682,683,,rebecca.kim9534@outlook.com,4335393207," 9533 Main St, Apt 34, Georgetown, NY 29776 ",2022-07-01,Carlos,Male,59
 683,684, Mia Castillo ,mia.castillo1629@yahoo.com,5437431949,"4960 Oak St, Apt 69, Madison, FL 21044",,Frank,Female,24
 684,685,,,9186108806,"8013 Maple Dr, Fairview, FL 62186",2020-08-20,Diana,Female,44
@@ -726,7 +726,7 @@
 724,725,Xander Wright,xander.wright7832@gmail.com,5172461886,"3266 Maple Dr, Georgetown, FL 99791",2022-10-20,Carlos,Male,59
 725,726,,,5703867989,"1917 Elm St, Riverside, FL 11838",2023-12-09,Alice,Female,55
 726,727,,brianna.kim6884@yahoo.com,3223796950,"6378 Oak St, Apt 61, Arlington, IL 46274",2023-11-28,Hannah,Male,39
-727,728,Ethan Cooper,ethan.cooper3402@yahoo.com,5455579459,"3647 Hillcrest Ave, Springfield, FL 39268",2023-10-28,Hannah,Male,18
+727,728,Ethan Cooper,ethan.cooper3402@yahoo.com,5455579459,"3647 Hillcrest Ave, Springfield, FL 39268",2023-10-28,Hannah,Male,15
 728,729, Tom Scott ,tom.scott5509@outlook.com,2699253449,"6435 Maple Dr, Georgetown, NY 45687",2022-01-28,Frank,Female,36
 729,730, Dave Bennett ,dave.bennett9868@aol.com,5409906986,"3681 Sunset Blvd, Clinton, CA 56430",2022-05-09,George,Female,48
 730,731,,noah.wilson8931@hotmail.com,6203816006," 1107 Sunset Blvd, Arlington, NY 69886 ",2022-03-13,Alice,Female,55
@@ -841,7 +841,7 @@
 839,840,Gloria Bailey,gloria.bailey7102@yahoo.com,5472752527,"5692 Maple Dr, Clinton, FL 96992",2022-11-30,Alice,Female,43
 840,841, Uma Thomas ,uma.thomas9434@hotmail.com,9959879427,"7319 Sunset Blvd, Clinton, CA 54884",2023-10-27,Elena,Female,55
 841,842,Oscar Kim,oscar.kim4850@outlook.com,3547791366,"407 Main St, Apt 27, Riverside, FL 45066",2022-03-30,Elena,Female,29
-842,843, Edward Alvarez ,edward.alvarez3921@protonmail.com,6362104853," 1098 Pine Ave, Franklin, CA 13233 ",2021-12-17,Bob,Male,18
+842,843, Edward Alvarez ,edward.alvarez3921@protonmail.com,6362104853," 1098 Pine Ave, Franklin, CA 13233 ",2021-12-17,Bob,Male,15
 843,844,Beth Gonzalez,beth.gonzalez3276@outlook.com,3256373398,"6933 Washington Blvd, Apt 100, Franklin, IL 70227",2021-08-12,Hannah,Male,40
 844,845, Sara Thomas ,sara.thomas2086@aol.com,6587075095,"3777 Cedar Ln, Greenville, CA 48761",2020-11-13,Alice,Female,63
 845,846, Zoe Lewis ,zoe.lewis3390@aol.com,8553314265,"3276 Elm St, Centerville, IL 60800",2022-09-24,Bob,Male,62
@@ -881,7 +881,7 @@
 879,880,Edward Nelson,edward.nelson7584@protonmail.com,,,2023-04-19,Frank,Male,51
 880,881, Paul King ,paul.king6143@aol.com,8539422699,,2019-02-06,Elena,Female,59
 881,882,Peter Stewart,peter.stewart7192@hotmail.com,,"605 Oak St, Fairview, NY 78568",2021-07-27,Alice,Female,23
-882,883, Ximena Morgan ,ximena.morgan4428@protonmail.com,5937752067,,2021-10-07,Frank,Male,18
+882,883, Ximena Morgan ,ximena.morgan4428@protonmail.com,5937752067,,2021-10-07,Frank,Male,15
 883,884, Steven Phillips ,steven.phillips2951@protonmail.com,6189743468,,2021-07-16,George,Male,32
 884,885,Ivy Johnson,ivy.johnson7712@hotmail.com,8879733294,"3821 Oak St, Georgetown, NY 78766",2023-05-17,Bob,Female,29
 885,886,,jacob.hernandez7262@mail.com,," 2863 Pine Ave, Greenville, IL 75925 ",2021-10-11,George,Female,47
@@ -918,7 +918,7 @@
 916,917,Victor Rodriguez,,7995792107,"1998 Elm St, Springfield, CA 49648",2021-09-11,Bob,Female,22
 917,918,Gloria Ramos,gloria.ramos4679@hotmail.com,2529847382,,2022-09-20,Diana,Female,58
 918,919, Lauren Moore ,,5719101418,"5735 Lakeview Dr, Springfield, TX 87297",2019-11-12,Bob,Male,30
-919,920,Xena Ruiz,xena.ruiz6918@mail.com,4843861897,"7998 Washington Blvd, Apt 22, Arlington, IL 90718",,Diana,Female,18
+919,920,Xena Ruiz,xena.ruiz6918@mail.com,4843861897,"7998 Washington Blvd, Apt 22, Arlington, IL 90718",,Diana,Female,90
 920,921,Quincy Johnson,quincy.johnson6903@yahoo.com,9925482827," 7129 Hillcrest Ave, Springfield, TX 53717 ",,Hannah,Male,30
 921,922,Owen Ortiz,owen.ortiz7860@yahoo.com,5602912948,"7430 Main St, Apt 6, Riverside, FL 74121",2022-07-04,Hannah,Male,32
 922,923,Victor Morris,victor.morris1335@hotmail.com,2089386227,"1444 Hillcrest Ave, Apt 57, Springfield, CA 76027",2021-04-15,Elena,Female,36
@@ -940,8 +940,8 @@
 938,939,Beth Lewis,beth.lewis9102@protonmail.com,5413034322," 4612 Oak St, Arlington, CA 34864 ",2022-02-09,Alice,Male,43
 939,940,Quinn Morris,quinn.morris8250@hotmail.com,9686016621,"6221 Pine Ave, Apt 52, Georgetown, FL 17064",2022-06-06,Alice,Female,50
 940,941,Marcus Cook,marcus.cook2982@yahoo.com,5149274333," 1316 Elm St, Apt 24, Madison, IL 34372 ",2019-12-31,Elena,Female,29
-941,942,Emily Kim,emily.kim7571@protonmail.com,3588102999,"8219 Cedar Ln, Greenville, NY 98002",,Frank,Female,18
-942,943,Marcus Baker,marcus.baker7282@outlook.com,3447711274,,2021-11-08,Diana,Female,18
+941,942,Emily Kim,emily.kim7571@protonmail.com,3588102999,"8219 Cedar Ln, Greenville, NY 98002",,Frank,Female,90
+942,943,Marcus Baker,marcus.baker7282@outlook.com,3447711274,,2021-11-08,Diana,Female,90
 943,944, Isaac Sanders ,isaac.sanders4025@protonmail.com,4479839701,"8979 Elm St, Apt 40, Franklin, CA 67926",2021-11-16,Elena,Female,58
 944,945,Erin Castillo,erin.castillo6458@aol.com,8484129048,"6779 Washington Blvd, Springfield, NY 17943",2022-01-14,Bob,Male,35
 945,946, Yvonne Stewart ,yvonne.stewart3769@yahoo.com,5134675473,,2023-07-29,Frank,Female,51
@@ -965,12 +965,12 @@
 963,964,Riley Walker,,,,,Elena,Female,53
 964,965,Charlie Taylor,charlie.taylor9573@mail.com,," 3013 Maple Dr, Fairview, CA 38330 ",2020-06-03,Frank,Male,59
 965,966,Ray Stewart,ray.stewart4966@gmail.com,9476692205,"9091 Oak St, Clinton, CA 08216",2023-07-17,Diana,Female,54
-966,967,Quincy Sanders,quincy.sanders9638@mail.com,3254361048,"1502 Washington Blvd, Apt 11, Clinton, FL 29831",2019-08-15,George,Female,18
+966,967,Quincy Sanders,quincy.sanders9638@mail.com,3254361048,"1502 Washington Blvd, Apt 11, Clinton, FL 29831",2019-08-15,George,Female,90
 967,968, Isaac Ramos ,isaac.ramos1564@hotmail.com,5958435842,"2858 Lakeview Dr, Apt 96, Centerville, NY 83112",,Elena,Female,36
 968,969, Peter Gray ,peter.gray6134@protonmail.com,7269688491,"2856 Sunset Blvd, Centerville, FL 85006",2019-03-23,George,Female,54
 969,970,Tyler Ortiz,tyler.ortiz9020@outlook.com,4173289852,"4433 Pine Ave, Fairview, FL 39022",2022-01-20,Bob,Female,46
 970,971,Jane Young,jane.young7058@protonmail.com,2628357602,"2938 Pine Ave, Georgetown, NY 47604",2021-02-26,Elena,Female,38
-971,972,,diana.wilson2232@protonmail.com,5339474816,"3224 Maple Dr, Arlington, CA 20256",2022-06-17,Frank,Male,18
+971,972,,diana.wilson2232@protonmail.com,5339474816,"3224 Maple Dr, Arlington, CA 20256",2022-06-17,Frank,Male,15
 972,973, Brianna Peterson ,brianna.peterson3826@aol.com,2606335355," 7959 Elm St, Apt 48, Madison, CA 41538 ",2021-04-12,Bob,Female,23
 973,974, Yosef Gonzalez ,,2803667624," 659 Main St, Apt 79, Franklin, CA 37766 ",2023-12-01,Elena,Male,35
 974,975,Xander Bailey,xander.bailey9338@yahoo.com,8983161982,"1177 Pine Ave, Riverside, CA 57489",2022-03-27,Carlos,Male,61
@@ -981,7 +981,7 @@
 979,980,Diana Walker,diana.walker1257@mail.com,9928451561,"8922 Pine Ave, Centerville, FL 87032",2022-11-04,Frank,Female,24
 980,981,Yvonne Davis,yvonne.davis8021@yahoo.com,8458406223,"5065 Lakeview Dr, Franklin, FL 63154",2021-08-01,Frank,Male,28
 981,982,Wendy Clark,wendy.clark1975@yahoo.com,7592492892,"8688 Lakeview Dr, Centerville, IL 70793",2021-12-26,Hannah,Female,29
-982,983,Mia Jackson,mia.jackson8650@protonmail.com,6748019844,"6599 Maple Dr, Centerville, TX 75341",2020-07-25,Frank,Male,18
+982,983,Mia Jackson,mia.jackson8650@protonmail.com,6748019844,"6599 Maple Dr, Centerville, TX 75341",2020-07-25,Frank,Male,16
 983,984,Nathan Taylor,nathan.taylor3789@yahoo.com,9406853343,"4858 Washington Blvd, Clinton, CA 47422",2020-04-24,Elena,Female,36
 984,985,Noah Taylor,noah.taylor3569@hotmail.com,3825153604,"2696 Cedar Ln, Georgetown, FL 41657",2019-01-19,Bob,Male,50
 985,986,Bob Torres,bob.torres4945@outlook.com,6676783150,"4056 Pine Ave, Apt 20, Franklin, NY 84215",2019-01-31,George,Female,54
