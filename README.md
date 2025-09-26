@@ -6,16 +6,16 @@ Este repositorio contiene un proyecto integral de **Extracción, Transformación
 
 ```
 lab6/
-├── csv/                           # Datos originales
-│   ├── customer_data.csv         # Datos de clientes sin procesar
-│   └── retail_data.csv           # Datos de ventas sin procesar
-├── data_clean/                   # Datos procesados
-│   ├── customer_data_clean.csv   # Datos de clientes limpios
-│   └── retail_data_clean.csv     # Datos de ventas limpios
-├── EDA and GE.ipynb            # Análisis exploratorio y Great Expectations
-├── tranformation.ipynb          # Limpieza y transformación de datos
-├── visualization.ipynb          # Visualizaciones comparativas
-└── README.md                   # Este archivo
+├── csv/
+│   ├── customer_data.csv
+│   └── retail_data.csv
+├── data_clean/
+│   ├── customer_data_clean.csv 
+│   └── retail_data_clean.csv 
+├── EDA and GE.ipynb 
+├── tranformation.ipynb  
+├── visualization.ipynb 
+└── README.md 
 ```
 
 ## 🎯 Objetivos del Proyecto
